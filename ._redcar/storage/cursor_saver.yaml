@@ -1,4 +1,6 @@
 --- 
-cursor_positions: []
-
+cursor_positions: 
+  - :path: README.md
+    :cursor_offset: 0
+    :timestamp: 2012-12-28 10:14:36.742000 +05:30
 files_to_retain: 0
