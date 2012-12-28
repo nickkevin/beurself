@@ -1,22 +1,27 @@
-1356671663
+1356673294
 About page	C:/Sites/upload/beurself/spec/requests/static_pages_spec.rb	describe "About page" do
 Application	C:/Sites/upload/beurself/config/application.rb	  class Application 
 ApplicationController	C:/Sites/upload/beurself/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Sites/upload/beurself/app/helpers/application_helper.rb	module ApplicationHelper
 Beurself	C:/Sites/upload/beurself/config/application.rb	module Beurself
+Contact page	C:/Sites/upload/beurself/spec/requests/static_pages_spec.rb	describe "Contact page" do
+CreateUsers	C:/Sites/upload/beurself/db/migrate/20121228053353_create_users.rb	class CreateUsers 
 Help page	C:/Sites/upload/beurself/spec/requests/static_pages_spec.rb	describe "Help page" do
 Home page	C:/Sites/upload/beurself/spec/requests/static_pages_spec.rb	describe "Home page" do
 Static pages	C:/Sites/upload/beurself/spec/requests/static_pages_spec.rb	describe "Static pages" do
 StaticPagesController	C:/Sites/upload/beurself/app/controllers/static_pages_controller.rb	class StaticPagesController 
 StaticPagesHelper	C:/Sites/upload/beurself/app/helpers/static_pages_helper.rb	module StaticPagesHelper
+User	C:/Sites/upload/beurself/app/models/user.rb	class User 
+User pages	C:/Sites/upload/beurself/spec/requests/user_pages_spec.rb	describe "User pages" do
+UsersController	C:/Sites/upload/beurself/app/controllers/users_controller.rb	class UsersController 
+UsersHelper	C:/Sites/upload/beurself/app/helpers/users_helper.rb	module UsersHelper
 about	C:/Sites/upload/beurself/app/controllers/static_pages_controller.rb	  def about
+contact	C:/Sites/upload/beurself/app/controllers/static_pages_controller.rb	  def contact
+down	C:/Sites/upload/beurself/db/migrate/20121228053353_create_users.rb	  def self.down
 full_title	C:/Sites/upload/beurself/app/helpers/application_helper.rb	  def full_title(page_title)
+full_title	C:/Sites/upload/beurself/spec/support/utilities.rb	def full_title(page_title)
 help	C:/Sites/upload/beurself/app/controllers/static_pages_controller.rb	  def help
 home	C:/Sites/upload/beurself/app/controllers/static_pages_controller.rb	  def home
-should have the base title	C:/Sites/upload/beurself/spec/requests/static_pages_spec.rb	it "should have the base title" do
-should have the h1 'About Us'	C:/Sites/upload/beurself/spec/requests/static_pages_spec.rb	it "should have the h1 'About Us'" do
-should have the h1 'Beurself'	C:/Sites/upload/beurself/spec/requests/static_pages_spec.rb	it "should have the h1 'Beurself'" do
-should have the h1 'Help'	C:/Sites/upload/beurself/spec/requests/static_pages_spec.rb	it "should have the h1 'Help'" do
-should have the title 'About Us'	C:/Sites/upload/beurself/spec/requests/static_pages_spec.rb	it "should have the title 'About Us'" do
-should have the title 'Help'	C:/Sites/upload/beurself/spec/requests/static_pages_spec.rb	it "should have the title 'Help'" do
-should not have a custom page title	C:/Sites/upload/beurself/spec/requests/static_pages_spec.rb	it "should not have a custom page title" do
+new	C:/Sites/upload/beurself/app/controllers/users_controller.rb	  def new
+signup page	C:/Sites/upload/beurself/spec/requests/user_pages_spec.rb	describe "signup page" do
+up	C:/Sites/upload/beurself/db/migrate/20121228053353_create_users.rb	  def self.up

@@ -3,4 +3,52 @@ cursor_positions:
   - :path: README.md
     :cursor_offset: 186
     :timestamp: 2012-12-28 10:38:43.811000 +05:30
+  - :path: app/views/static_pages/home.html.erb
+    :cursor_offset: 508
+    :timestamp: 2012-12-28 10:48:02.223000 +05:30
+  - :path: app/views/static_pages/help.html.erb
+    :cursor_offset: 304
+    :timestamp: 2012-12-28 10:33:45.302000 +05:30
+  - :path: config/routes.rb
+    :cursor_offset: 70
+    :timestamp: 2012-12-28 10:57:05.359000 +05:30
+  - :path: app/controllers/static_pages_controller.rb
+    :cursor_offset: 131
+    :timestamp: 2012-12-28 10:54:32.535000 +05:30
+  - :path: app/views/static_pages/about.html.erb
+    :cursor_offset: 334
+    :timestamp: 2012-12-28 10:33:59.039000 +05:30
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 407
+    :timestamp: 2012-12-28 10:52:34.958000 +05:30
+  - :path: app/helpers/application_helper.rb
+    :cursor_offset: 248
+    :timestamp: 2012-12-28 10:42:05.991000 +05:30
+  - :path: app/assets/stylesheets/custom.css.scss
+    :cursor_offset: 81
+    :timestamp: 2012-12-28 10:53:23.503000 +05:30
+  - :path: app/views/layouts/_shim.html.erb
+    :cursor_offset: 107
+    :timestamp: 2012-12-28 10:50:35.111000 +05:30
+  - :path: app/views/layouts/_header.html.erb
+    :cursor_offset: 268
+    :timestamp: 2012-12-28 10:58:23.581000 +05:30
+  - :path: .gitignore
+    :cursor_offset: 226
+    :timestamp: 2012-12-28 10:17:36.143000 +05:30
+  - :path: spec/requests/static_pages_spec.rb
+    :cursor_offset: 514
+    :timestamp: 2012-12-28 11:00:09.343000 +05:30
+  - :path: app/views/layouts/_footer.html.erb
+    :cursor_offset: 206
+    :timestamp: 2012-12-28 10:58:39.607000 +05:30
+  - :path: app/views/static_pages/contact.html.erb
+    :cursor_offset: 187
+    :timestamp: 2012-12-28 10:54:57.599000 +05:30
+  - :path: spec/support/utilities.rb
+    :cursor_offset: 52
+    :timestamp: 2012-12-28 10:59:38.599000 +05:30
+  - :path: Gemfile
+    :cursor_offset: 117
+    :timestamp: 2012-12-28 11:02:36.079000 +05:30
 files_to_retain: 0

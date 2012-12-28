@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.9'
+gem 'bootstrap-sass', '2.1'
+gem 'nifty-generators'
+gem 'paperclip'
 
 group :development, :test do
   gem 'sqlite3', '1.3.5'
@@ -38,3 +41,5 @@ end
 
 # To use debugger
 # gem 'debugger'
+
+gem "mocha", :group => :test
